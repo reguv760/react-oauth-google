@@ -1,5 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Notes for Integrating Google Login to React project using 'react-google-login'
+
+1. Before installing 'react-google-login', create clientId in Google's Developer API Console
+2. In Google Developer API Console, Create New Project
+   - name new project identical (or similar) to project name
+   - clientId will be provided after new project is created
+   - save clientId info for later
+3. Enable APIS and Services
+   - Search for CloudOS Login API
+   - Enable
+4. Credentials
+   - Configure clientId by clicking on pencil icon
+   - Add localhost:3000 and/or server location (in this case, my github gh-pages branch) to URL; save
+5. Oauth consent Screen (once project is deployed online)
+   - Edit App
+   - Add domain name location to Authorized domains
+   - Add complete URL of project to Application Homepage link
+
+If the following steps above are not followed, Google Login button will remain disabled both locally and online.
+
 ## Available Scripts
 
 In the project directory, you can run:

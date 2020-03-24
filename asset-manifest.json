@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-oauth-google/static/js/main.64e464af.chunk.js",
-    "main.js.map": "/react-oauth-google/static/js/main.64e464af.chunk.js.map",
+    "main.js": "/react-oauth-google/static/js/main.0d2b2a91.chunk.js",
+    "main.js.map": "/react-oauth-google/static/js/main.0d2b2a91.chunk.js.map",
     "runtime-main.js": "/react-oauth-google/static/js/runtime-main.5a171aeb.js",
     "runtime-main.js.map": "/react-oauth-google/static/js/runtime-main.5a171aeb.js.map",
     "static/js/2.59316ce8.chunk.js": "/react-oauth-google/static/js/2.59316ce8.chunk.js",
     "static/js/2.59316ce8.chunk.js.map": "/react-oauth-google/static/js/2.59316ce8.chunk.js.map",
     "index.html": "/react-oauth-google/index.html",
-    "precache-manifest.484b175aab1af1e58bd565319d90d725.js": "/react-oauth-google/precache-manifest.484b175aab1af1e58bd565319d90d725.js",
+    "precache-manifest.a230de52b9152ae95d21e892a2af0eeb.js": "/react-oauth-google/precache-manifest.a230de52b9152ae95d21e892a2af0eeb.js",
     "service-worker.js": "/react-oauth-google/service-worker.js",
     "static/js/2.59316ce8.chunk.js.LICENSE.txt": "/react-oauth-google/static/js/2.59316ce8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5a171aeb.js",
     "static/js/2.59316ce8.chunk.js",
-    "static/js/main.64e464af.chunk.js"
+    "static/js/main.0d2b2a91.chunk.js"
   ]
 }

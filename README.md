@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Packages Used:
+
+1. react-google-login
+
+- A Google oAUth Sign-in / Log-in Component for React
+
+`npm install react-google-login`
+
+2. gh-pages
+
+- Publish files to a gh-pages branch on GitHub (or any other branch anywhere else).
+
+`npm install gh-pages --save-dev`
+
 Notes for Integrating Google Login to React project using 'react-google-login'
 
 1. Before installing 'react-google-login', create clientId in Google's Developer API Console
